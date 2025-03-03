@@ -10,11 +10,12 @@ This project allows controlling **two stepper motors** using a **PS2 controller'
 
 ## Hardware Requirements
 - Arduino (Uno, Mega, etc.)
-- PS2 Controller
+- PS3 Controller
 - Stepper motors (2x)
 - Stepper motor drivers (A4988, DRV8825, or similar)
 - Power supply (appropriate for the motors)
 - Jumper wires
+- Supporting Structure
 
 ## Wiring Diagram
 | Arduino Pin | Connection |
